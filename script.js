@@ -98,7 +98,7 @@
                         return false;
                     } else {
 
-                        console.log('input keyup: ' + solvedToggle);
+                        // console.log('input keyup: ' + solvedToggle);
 
                         puzInit.checkAnswer(e);
 
@@ -132,7 +132,7 @@
                     mode = "setting ui";
                     if (solvedToggle) solvedToggle = false;
 
-                    console.log('input click: ' + solvedToggle);
+                    // console.log('input click: ' + solvedToggle);
 
                     nav.updateByEntry(e);
                     e.preventDefault();
@@ -527,7 +527,7 @@
                     activePosition = classes[0].split('-')[1];
                 }
 
-                console.log('getActivePositionFromClassGroup activePosition: ' + activePosition);
+                // console.log('getActivePositionFromClassGroup activePosition: ' + activePosition);
 
             },
 
@@ -550,13 +550,13 @@
             }
 
         }; // end util object
-
-
+        
+        
         puzInit.init();
-
-
+        
+        
     }
-
+    
 })(jQuery);
 
 (function ($) {
@@ -565,12 +565,11 @@
         // Position refers to the numerical order of an entry. Each position can have
         // two entries: an across entry and a down entry
         var puzzleData;
-        $.getJSON('data.json',(data)=>{
+        $.getJSON('data.json', function (data) { 
+            // console.log(data);
             puzzleData = data;
+            $('#puzzle-wrapper').crossword(puzzleData);
         });
-
-        $('#puzzle-wrapper').crossword(puzzleData);
-
     })
 
 })(jQuery)
