@@ -1,6 +1,6 @@
 [
     {
-        "clue": "VPN",
+        "clue": "Provides privacy, anonymity and security to users by creating a private network connection across a public network connection.",
         "answer": "VPN",
         "position": 0,
         "orientation": "across",
@@ -8,7 +8,7 @@
         "starty": 1
     },
     {
-        "clue": "ARPU",
+        "clue": "The total revenue divided by the number of subscribers",
         "answer": "ARPU",
         "position": 1,
         "orientation": "across",
@@ -16,7 +16,7 @@
         "starty": 3
     },
     {
-        "clue": "ENODEB",
+        "clue": "The base stations in 4G LTE networks. ",
         "answer": "ENODEB",
         "position": 3,
         "orientation": "across",
@@ -24,7 +24,7 @@
         "starty": 5
     },
     {
-        "clue": "CENTREX",
+        "clue": "Central office-based telecommunications system owned by an outside service provider. ",
         "answer": "CENTREX",
         "position": 7,
         "orientation": "across",
@@ -32,7 +32,7 @@
         "starty": 6
     },
     {
-        "clue": "JIOFIBER",
+        "clue": "Fiber internet broadband service by Jio",
         "answer": "JIOFIBER",
         "position": 11,
         "orientation": "across",
@@ -40,7 +40,7 @@
         "starty": 8
     },
     {
-        "clue": "ONT",
+        "clue": "Refers to the consumer end equipment in an optical Fiber link",
         "answer": "ONT",
         "position": 14,
         "orientation": "across",
@@ -48,7 +48,7 @@
         "starty": 11
     },
     {
-        "clue": "LEASEDLINE",
+        "clue": "A private telecommunications circuit between two or more geographically distant locations.",
         "answer": "LEASEDLINE",
         "position": 16,
         "orientation": "across",
@@ -56,7 +56,7 @@
         "starty": 13
     },
     {
-        "clue": "PRIMARY",
+        "clue": "_________ Rate Interface allows for 23 concurrent transmissions of voice, data, or video traffic between the network and the user.",
         "answer": "PRIMARY",
         "position": 18,
         "orientation": "across",
@@ -64,7 +64,7 @@
         "starty": 17
     },
     {
-        "clue": "VOLTE",
+        "clue": "Stands for 'Voice over Long Term Evolution'.",
         "answer": "VOLTE",
         "position": 0,
         "orientation": "down",
@@ -72,7 +72,7 @@
         "starty": 1
     },
     {
-        "clue": "PREPAID",
+        "clue": "Credit is purchased in advance of service use",
         "answer": "PREPAID",
         "position": 2,
         "orientation": "down",
@@ -80,7 +80,7 @@
         "starty": 3
     },
     {
-        "clue": "ACQUISITION",
+        "clue": "The process of gaining a new customer",
         "answer": "ACQUISITION",
         "position": 4,
         "orientation": "down",
@@ -88,7 +88,7 @@
         "starty": 5
     },
     {
-        "clue": "LTE",
+        "clue": "Standard for wireless broadband ",
         "answer": "LTE",
         "position": 5,
         "orientation": "down",
@@ -96,7 +96,7 @@
         "starty": 5
     },
     {
-        "clue": "POSTPAID",
+        "clue": "The payment for services are made, after the services are used",
         "answer": "POSTPAID",
         "position": 6,
         "orientation": "down",
@@ -104,7 +104,7 @@
         "starty": 6
     },
     {
-        "clue": "EKYC",
+        "clue": "Digital process to verify the identity of customers.",
         "answer": "EKYC",
         "position": 8,
         "orientation": "down",
@@ -112,7 +112,7 @@
         "starty": 6
     },
     {
-        "clue": "JIOFI",
+        "clue": "Allows multiple users and mobile devices to access Jio's 4G high-speed internet connectivity and create a personal Wi-Fi hotspot.",
         "answer": "JIOFI",
         "position": 9,
         "orientation": "down",
@@ -128,15 +128,15 @@
         "starty": 7
     },
     {
-        "clue": "HTB",
-        "answer": "Col",
+        "clue": "Compact fiber wall outlet at the final fiber termination point in the customer premises",
+        "answer": "HTB",
         "position": 12,
         "orientation": "down",
         "startx": 14,
         "starty": 8
     },
     {
-        "clue": "RECHARGE",
+        "clue": "Done to increase validity of pre-paid account",
         "answer": "RECHARGE",
         "position": 11,
         "orientation": "down",
@@ -144,7 +144,7 @@
         "starty": 12
     },
     {
-        "clue": "SIM",
+        "clue": "A microchip that connects it to a particular phone network.",
         "answer": "SIM",
         "position": 17,
         "orientation": "down",
